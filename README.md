@@ -1,2 +1,2 @@
-# [Razvoj usluga i aplikacija za operacijski sustav Android](https://www.fer.unizg.hr/predmet/ruazosa) - Domaće zadaće (FER)
+# [Umjetna inteligencija](https://www.fer.unizg.hr/predmet/umjint) - Labosi (FER)
 (Ak.god. 2019/2020.)
